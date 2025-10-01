@@ -23,43 +23,50 @@ Deep dive into JavaScript's object-oriented features:
 - Prototype Chain
 - Prototypal Inheritance
 
-### 4. [Modules](./modules/)
+### 4. [Array & Object Methods](./array-methods/)
+Essential built-in methods for data manipulation:
+- Array Methods (map, filter, reduce, forEach, etc.)
+- String Methods
+- Object Methods
+- Practical Examples
+
+### 5. [Modules](./modules/)
 Understanding module systems in JavaScript:
 - ES Modules (ESM)
 - CommonJS (CJS)
 - Import/Export Patterns
 
-### 5. [Error Handling](./error-handling/)
+### 6. [Error Handling](./error-handling/)
 Robust error handling techniques:
 - Try/Catch/Finally
 - Custom Errors
 - Error Propagation
 
-### 6. [DOM Manipulation](./dom/)
+### 7. [DOM Manipulation](./dom/)
 Working with the Document Object Model:
 - Selecting & Modifying Elements
 - Event Handling
 - Event Delegation
 
-### 7. [Design Patterns](./design-patterns/)
+### 8. [Design Patterns](./design-patterns/)
 Common JavaScript design patterns:
 - Factory Pattern
 - Singleton Pattern
 - Observer Pattern
 
-### 8. [Data Management](./data-management/)
+### 9. [Data Management](./data-management/)
 Understanding data handling:
 - Mutable vs Immutable Data
 - Deep vs Shallow Copy
 - Immutability Techniques
 
-### 9. [Performance Optimization](./performance/)
+### 10. [Performance Optimization](./performance/)
 Optimizing JavaScript performance:
 - Code Optimization
 - Memory Management
 - Rendering Performance
 
-### 10. [Tooling & Build Process](./tooling/)
+### 11. [Tooling & Build Process](./tooling/)
 Modern JavaScript development tools:
 - Bundlers (Webpack, Vite, Rollup)
 - Transpiling & Polyfills (Babel)
